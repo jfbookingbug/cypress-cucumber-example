@@ -4,6 +4,6 @@
 // you can have external state, and also require things!
 const url = 'https://edge_qa.bookingbug.com'
 
-given('I open the rails app', () => {
+given('I open rails', () => {
   cy.visit(url)
 })
