@@ -1,1 +1,9 @@
-{}
+{"video": false, "watchForFileChanges":	true, 
+    "reporter": "cypress-testrail-reporter",
+    "reporterOptions": {
+      "domain": "bookingbug.testrail.net",
+      "username": "qa+testrail@bookingbug.com",
+      "password": "NUS7M14fuAvtWhai3TMl-SUBCBkmk9NOk/L4rKdwa",
+      "projectId": 1,
+      "suiteId": 1
+}
